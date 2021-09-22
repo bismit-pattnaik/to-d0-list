@@ -45,12 +45,7 @@ app.get("/work", function(req,res){
 });
 
 
-// app.post("/work", function(req,res){
-//     var item = req.body.newItem;
-//     workItems.push(item);
 
-//     res.redirect("/work"); 
-// })
 
 
 
